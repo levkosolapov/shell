@@ -1,5 +1,5 @@
 from functions import *
-
+#nothing new here, just a comment for a pull request
 
 while True:
     a = str(input())
